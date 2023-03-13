@@ -1,3 +1,3 @@
 def print():
-    print("Hello, dogs")
+    print("Hello, cats")
     return
